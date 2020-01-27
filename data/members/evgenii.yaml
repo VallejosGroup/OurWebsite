@@ -1,4 +1,5 @@
 name: "Evgenii Lobzaev"
 icon: "fa fa-lightbulb-o"
-description: "MSc Student"
+description: "PhD Student"
 avatar: "img/people/evgenii.jpg"
+weight: -5
