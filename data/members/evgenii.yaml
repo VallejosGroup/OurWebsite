@@ -2,4 +2,6 @@ name: "Evgenii Lobzaev"
 icon: "fa fa-lightbulb-o"
 description: "PhD student"
 avatar: "img/people/evgenii.jpg"
+github: "https://github.com/evgeniilobzaev"
+githublogo: "fa fa-2x fa-github"
 weight: -5
