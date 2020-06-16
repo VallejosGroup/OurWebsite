@@ -60,9 +60,9 @@ theme = "hugo-universal-theme-cata"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Vallejos Group"
+    defaultKeywords = ["biomedical", "data", "science", "statistics", "bioinformatics", "computational", "biology"]
+    defaultDescription = "Understanding heterogeneity in complex biomedical data"
 
     # Google Maps API key (if not set will default to not passing a key.)
     #googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
