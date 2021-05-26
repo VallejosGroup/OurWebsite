@@ -8,7 +8,7 @@ title = "Our research"
   <div class="col-sm-6">
   <img src="/img/ResearchImage.png" alt="researchimage" width="100%"/></div>
   <div class="col-sm-6"> 
-  While biomedical data sometimes classifies as "big data"" (where the number of 
+  While biomedical data sometimes classifies as "big data" (where the number of
 samples and/or variables is large), complexity is its most prominent feature. 
 This arises from a combination of different sources of heterogeneity: 
 heterogeneity across individuals in a population (e.g. response to treatment), 
