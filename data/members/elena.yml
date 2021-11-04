@@ -1,0 +1,12 @@
+name: "Elena Bernabeu"
+description: "Postdoctoral researcher"
+avatar: "img/people/elena.jpg"
+github: "https://github.com/elenabernabeu"
+githublogo: "fa fa-2x fa-github"
+twitter: "https://twitter.com/elenabernabio"
+twitterlogo: "fa fa-2x fa-twitter"
+# blog: "https://alanocallaghan.github.io"
+# bloglogo: "fa fa-2x fa-wordpress"
+scholar: "https://scholar.google.com/citations?user=xXYBCxIAAAAJ&hl=en"
+scholarlogo: "fa fa-2x fa-book"
+weight: -2
