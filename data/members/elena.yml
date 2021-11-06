@@ -9,4 +9,4 @@ twitterlogo: "fa fa-2x fa-twitter"
 # bloglogo: "fa fa-2x fa-wordpress"
 scholar: "https://scholar.google.com/citations?user=xXYBCxIAAAAJ&hl=en"
 scholarlogo: "fa fa-2x fa-book"
-weight: -2
+weight: 0
