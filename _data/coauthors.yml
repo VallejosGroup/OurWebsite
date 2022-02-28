@@ -1,6 +1,8 @@
 "Marioni":
   - firstname: ["Riccardo E", "Ricardo E."]
     url: https://marioni-group.owlstown.net
+  - firstname: ["John C."]
+    url: https://www.ebi.ac.uk/research-beta/marioni/
 
 "Sanguinetti":
   - firstname: Guido
